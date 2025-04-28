@@ -31,7 +31,7 @@
     <distributionManagement>
         <snapshotRepository>
             <id>nexus-snapshots</id>
-            <url>http://172.17.0.3:8083/repository/maven-snapshots/</url>  <!-- Update with the correct Nexus URL -->
+            <url>http://172.17.0.2:8081/repository/maven-snapshots/</url>  <!-- Update with the correct Nexus URL -->
         </snapshotRepository>
     </distributionManagement>
 
